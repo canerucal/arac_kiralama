@@ -1,3 +1,3 @@
-# Basit ve sade bir rent a car veritabanı
+# Araba/Yat/Karavan/Helikopter Kiralama Veritabanı
 
-Veritabanını ödevim için hazırladım. Datalar rastgele oluşturulmuştur.
+Datalar rastgele oluşturulmuştur.
