@@ -42,5 +42,4 @@ telefon BIGINT,
 email VARCHAR(45),
 d_tarihi DATE,
 lokasyon_id INT,
-kira_sayisi INT
 )
